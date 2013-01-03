@@ -1,1 +1,6 @@
-This file was created by IntelliJ IDEA (Community Edition) IC-123.100 for binding GitHub repository
+De-duplication service prototype.
+
+Inspired by papers:
+http://sigda.eecs.umich.edu/DUDE/
+http://dbpubs.stanford.edu:8091/diglib/pub/reports/copy-detect.pdf
+http://theory.stanford.edu/~aiken/publications/papers/sigmod03.pdf
