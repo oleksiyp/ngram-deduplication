@@ -32,7 +32,7 @@ public class DeDupWebMain {
 
     public DeDupWebMain(URI baseUri) throws IOException {
         final Map<String, String> initParams = new HashMap<String, String>();
-        initParams.put("com.sun.jersey.config.property.packages", "com.reuters.core.ngram_deduplication.ddservice");
+        initParams.put("com.sun.jersey.config.property.packages", "ngram");
         log.info("Starting grizzly...");
         threadSelector = GrizzlyWebContainerFactory.create(baseUri, initParams);
         log.info(String.format("Jersey app started with WADL available at %s/application.wadl", baseUri));
