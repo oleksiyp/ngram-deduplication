@@ -1,4 +1,4 @@
-package com.reuters.core.ngram_deduplication.ddservice;
+package ngram;
 
 import com.sun.grizzly.http.SelectorThread;
 import com.sun.jersey.api.container.grizzly.GrizzlyWebContainerFactory;

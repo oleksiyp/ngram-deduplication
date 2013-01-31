@@ -1,4 +1,4 @@
-package com.reuters.core.ngram_deduplication.ddservice;
+package ngram;
 
 import org.apache.log4j.Logger;
 import org.junit.BeforeClass;

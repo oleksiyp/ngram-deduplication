@@ -1,4 +1,4 @@
-package com.reuters.core.ngram_deduplication.ddservice;
+package ngram;
 
 /**
 * User: Oleksiy Pylypenko
